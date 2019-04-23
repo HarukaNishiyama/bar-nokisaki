@@ -1,0 +1,88 @@
+/*フェードイン設定*/
+
+.fadein {
+	opacity : 0;
+	transform : translate(0, 50px);
+	transition:all 1s;
+}
+.fadein.scrollin {
+	opacity : 1;
+	transform : translate(0, 0);
+}
+ul {
+	list-style-type: none;
+}
+
+/* ここまでフェードイン */
+
+a{
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.hazimete{
+    padding: 50px 0 0 0;
+}
+
+.hazimete p{
+    font-size: 20px;
+}
+
+.info{
+    font-size:30px;
+}
+
+.info1{
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.time{
+    font-size: 25px;
+}
+
+header img{
+    height: 300px;
+}
+ 
+.clear{
+    clear: both;
+}
+
+/* アイコン */
+.icons{
+    padding-top: 50px;
+}
+
+.icon{
+    float: left;
+    width: 20%;
+}
+.icon img{
+    width: 95%;
+}
+ 
+.icon p{
+    font-size:15px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin: 0;
+}
+
+.sns{
+    font-size:30px;
+    padding: 50px 0px 50px 0px;
+}
+
+.minimap{
+    display: none;
+}
+
+footer{
+    padding-top:80px;
+    padding-bottom: 50px;
+}
