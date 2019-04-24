@@ -36,14 +36,14 @@
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon2.jpeg" alt="">
+            <img src="image/icon6.jpeg" alt="">
             <p>譲り合い<br>
                 ご自由にお使いください
             </p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon1.jpeg" alt="">
+            <img src="image/icon7.jpeg" alt="">
             <p>お酒のオーダーをお待ちしています</p>
         </div>
         <!-- アイコン -->
@@ -53,7 +53,7 @@
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon5.jpeg" alt="">
+            <img src="image/icon8.jpeg" alt="">
             <p>譲り合い<br>
                 ご自由にお使いください
             </p>
@@ -78,25 +78,25 @@
             </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon4.jpeg" alt="">
+            <img src="image/icon10.jpeg" alt="">
             <p>四谷警察に<br>
             即110番します</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon5.jpeg" alt="">
+            <img src="image/icon9.jpeg" alt="">
             <p>みんな誘われてしまうので<br>
             ご勘弁ください</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon4.jpeg" alt="">
+            <img src="image/icon11.jpeg" alt="">
             <p>トイレを含め<br>
             見つけ次第即罰金です</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon5.jpeg" alt="">
+            <img src="image/icon12.jpeg" alt="">
             <p>ご自宅で<br>
             お楽しみください</p>
         </div>
@@ -113,5 +113,6 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.413016623992!2d139.70652011474647!3d35.69145273701967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdcde99dc61%3A0x654c3fdb5a179ee1!2z44CSMTYwLTAwMjIg5p2x5Lqs6YO95paw5a6_5Yy65paw5a6_77yS5LiB55uu77yR77yW4oiS77yR77yRIOOCteODs-ODleOCv-ODn-ODk-ODqw!5e0!3m2!1sja!2sjp!4v1554189516881!5m2!1sja!2sjp" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 </main>
+
 
 <?php require_once('footer-bar-nokisaki.php') ?>
