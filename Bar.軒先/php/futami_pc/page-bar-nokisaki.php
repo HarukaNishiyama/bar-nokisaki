@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-<?php include('header-bar-nokisaki.php'); ?>
+<?php include('header-bar-nokisaki.php') ?>
 
 <main>
     <div class="hazimete">
@@ -34,72 +34,72 @@
     <div class="icons">
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon3.jpeg" alt="">
+            <img src="../../image/icon3.jpeg" alt="">
             <p>煙の出ないタバコであればOK</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon6.jpeg" alt="">
+            <img src="../../image/icon6.jpeg" alt="">
             <p>譲り合い<br>
                 ご自由にお使いください
             </p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon7.jpeg" alt="">
+            <img src="../../image/icon7.jpeg" alt="">
             <p>お酒のオーダーをお待ちしています</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon1.jpeg" alt="">
+            <img src="../../image/icon1.jpeg" alt="">
             <p>お酒のオーダーをお待ちしています</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon8.jpeg" alt="">
+            <img src="../../image/icon8.jpeg" alt="">
             <p>譲り合い<br>
                 ご自由にお使いください
             </p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon5.jpeg" alt="">
+            <img src="../../image/icon5.jpeg" alt="">
             <p>パスワードは<br>
                 店長までお尋ねください</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon2.jpeg" alt="">
+            <img src="../../image/icon2.jpeg" alt="">
             <p>事務所と併用しているため<br>
                 店外にてお楽しみください</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-                <img src="image/icon4.jpeg" alt="">
+                <img src="../../image/icon4.jpeg" alt="">
                 <p>事務所と併用しているため<br>
                 同伴NGです</p>
             </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon10.jpeg" alt="">
+            <img src="../../image/icon10.jpeg" alt="">
             <p>四谷警察に<br>
             即110番します</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon9.jpeg" alt="">
+            <img src="../../image/icon9.jpeg" alt="">
             <p>みんな誘われてしまうので<br>
             ご勘弁ください</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon11.jpeg" alt="">
+            <img src="../../image/icon11.jpeg" alt="">
             <p>トイレを含め<br>
             見つけ次第即罰金です</p>
         </div>
         <!-- アイコン -->
         <div class="icon fadein">
-            <img src="image/icon12.jpeg" alt="">
+            <img src="../../image/icon12.jpeg" alt="">
             <p>ご自宅で<br>
             お楽しみください</p>
         </div>
@@ -117,4 +117,4 @@
     </div>
 </main>
 
-<?php include('footer-bar-nokisaki.php'); ?>
+<?php include('footer-bar-nokisaki.php') ?>

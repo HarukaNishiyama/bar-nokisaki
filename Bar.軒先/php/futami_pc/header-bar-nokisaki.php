@@ -8,7 +8,6 @@
     <!-- <link rel="stylesheet" href="style.css"> -->
     <!-- <link rel="stylesheet" href="responsive.css"> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
     <style>
     
       /*フェードイン設定*/
@@ -105,5 +104,5 @@
 </head>
 <body>
 <header>
-    <img src="../image/bar-logo.jpg" alt="Bar軒先">
+    <img src="../../image/bar-logo.jpg" alt="Bar軒先">
 </header>

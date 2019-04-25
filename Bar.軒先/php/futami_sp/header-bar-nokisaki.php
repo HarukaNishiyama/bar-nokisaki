@@ -114,5 +114,5 @@
 </head>
 <body>
 <header>
-    <img src="image/bar-logo.jpg" alt="Bar軒先">
+    <img src="../../image/bar-logo.jpg" alt="Bar軒先">
 </header>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-<?php include('header-bar-nokisaki'); ?>
+<?php include('header-bar-nokisaki.php'); ?>
 
 <main>
     <div class="hazimete">
@@ -117,6 +117,4 @@
     </div>
 </main>
 
-
-<?php get_footer('bar-nokisaki.php'); ?>
-<?php include('header-bar-nokisaki'); ?>
+<?php include('footer-bar-nokisaki.php'); ?>
