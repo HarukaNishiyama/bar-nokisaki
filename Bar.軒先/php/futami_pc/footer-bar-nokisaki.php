@@ -1,4 +1,3 @@
-<?php require_once('header-bar-nokisaki.php') ?>
 <!-- scriptを記述 -->
 <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.3.min.js"></script>
 <script src="js/jquery-3.3.1.min.js"></script>

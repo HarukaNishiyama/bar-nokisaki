@@ -1,4 +1,7 @@
-<?php require_once('header-bar-nokisaki.php') ?>
+<!DOCTYPE html>
+<html lang="ja">
+
+<?php include('header-bar-nokisaki'); ?>
 
 <main>
     <div class="hazimete">
@@ -115,4 +118,5 @@
 </main>
 
 
-<?php require_once('footer-bar-nokisaki.php') ?>
+<?php get_footer('bar-nokisaki.php'); ?>
+<?php include('header-bar-nokisaki'); ?>
